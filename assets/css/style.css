@@ -1,0 +1,20 @@
+body {
+    background-image: url(/Users/user/Documents/uawork/homework/TrainScheduler/assets/images/papyrus.png);
+    padding: 0px;
+    margin: 0px;
+}
+h1, p {
+    color:white;
+    background-size: cover;
+}
+.jumbotron {
+    height:300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom:1px solid #ff6a00
+  }
+  .card {
+    margin: 0 auto;
+    float: none; 
+    margin-bottom: 10px; 
+}
